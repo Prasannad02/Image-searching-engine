@@ -15,7 +15,7 @@ This is an image search engine web application. Users can search for images usin
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Image-Search-Engine/
+    https://prasannad02.github.io/Image-searching-engine/
 ## Getting Started
 
 To use Prasanna's Image Search Engine web application, follow these steps:
